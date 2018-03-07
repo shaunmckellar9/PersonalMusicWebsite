@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+<marquee behavior="scroll" direction="left"><h3>THE EVOLUTION OF HIP HOP, WHERE HIP HOP HISTORY COMES TO LIFE!</h3><center><img src="hiphophome.jpg" width="150" height="108" alt="I love Hip-Hop"></center></marquee>
+
+<marquee behavior="alternate"></marquee>
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+
+<!-- jQuery library -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+
+<!-- Latest compiled JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+<link rel="stylesheet" href="all.css">
+<link rel="stylesheet" type="text/css"  href="Home2.css">
+<title> HipHop Evolution</title>
+<script type="text/javascript">
+</script>
+</head>
+<body>
+<nav class="navbar navbar-inverse">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <a class="navbar-brand" The Amazing Evolution of HipHop</a>
+    </div>
+    <ul class="nav navbar-nav">
+      <li class="active"><a href="Home2.html"><img src="hiphophome.jpg" width="50" height="50"/>Home</a></li>
+      <li><a href="70's.html"><img src="hiphop-1.jpg" width="50" height="50"/>70's</a></li>
+      <li><a href="80's.html"><img src="hiphop-2.jpg" width="50" height="50"/>80's</a></li> 
+	  <li><a href="90's.html"><img src="hiphop-3.jpg" width="50" height="50"/>90's</a></li>
+      <li><a href="2000's.html"><img src="hiphop-4.jpg" width="50" height="50"/>2000's</a></li> 
+	  <li><a href="2010's.html"><img src="hiphop-5.jpg" width="50" height="50"/>2010's</a></li>
+	  <li><a href="Contact Us.html"><img src="hiphop-6.jpg" width="50" height="50"/>Follow Us</a></li>
+    </ul>
+    </div>
+	</nav>
+	<h1 id="logo"><center><em>Welcome to The Evolution of 2010's Hip Hop</center></em></h1>
+ <text align="left">
+	<center><h4> Read the article below and feel free to leave any suggested artists or songs on our Follow Us Page. We value your feedback!</h4></center>
+<div>
+</div>
+<div id="player">
+<h3> Featured 2010's hits for today!</h3>
+<p>SuperRappin-1979</p>
+	<audio controls>
+	<source src="SuperRappin'.mp3" type="audio/mpeg">
+	</audio>
+</div>
+<div>
+<div id="player">
+<p>Rapper's Delight-The Sugarhill Gang- 1979</p>
+	<audio controls>
+	<source src="Rapper's Delight - The Sugarhill Gang (1979).mp3" type="audio/mpeg">
+	</audio>
+</div>	

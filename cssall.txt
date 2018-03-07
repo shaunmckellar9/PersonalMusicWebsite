@@ -1,0 +1,2 @@
+.navbar li{padding-left:25px; color: white}
+.navbar{background-color: orange;}

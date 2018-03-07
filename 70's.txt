@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html>
+<body style="background-color:lightblue;">
+<head>
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+
+<!-- jQuery library -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+
+<!-- Latest compiled JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<link rel="stylesheet" href="all.css">
+<a href="70's.css">
+<link rel="stylesheet" href="all.css">
+<title> HipHop Evolution</title>
+</head>
+<body>
+<nav class="navbar navbar-inverse">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <a class="navbar-brand" href="#">The Amazing Evolution of HipHop</a>
+    </div>
+    <ul class="nav navbar-nav">
+      <li class="active"><a href="Home2.html"><img src="hiphophome.jpg" width="50" height="50"/>Home</a></li>
+      <li><a href="70's.html"><img src="hiphop-1.jpg" width="50" height="50"/>70's</a></li>
+      <li><a href="#"><img src="hiphop-2.jpg" width="50" height="50"/>80's</a></li> 
+	  <li><a href="#"><img src="hiphop-3.jpg" width="50" height="50"/>90's</a></li>
+      <li><a href="#"><img src="hiphop-4.jpg" width="50" height="50"/>2000's</a></li> 
+	  <li><a href="#"><img src="hiphop-5.jpg" width="50" height="50"/>2010's</a></li>
+    </ul>
+    <ul class="nav navbar-nav navbar-right">
+      <li><a href="#"><span class="glyphicon glyphicon-user"></span> Sign Up</a></li>
+      <li><a href="#"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
+    </ul>
+  </div>
+</nav>
+
+<h1 id="logo"><em>Welcome to The Evolution of 70's Hip Hop</em></h1>
+ <text align="left">
+	<p> Read the article below and try out the trivia!
+ <br>
+ <br>
+Sarah went to the park with
+her mom. She liked playing
+chase with the other children.
+Her favorite thing to do at
+the park was to go down the
+slide.She also liked when
+her mom helped her on the swings.
+<br>
+Answer the folllowing questions.
+</p>
+<p> Question 1: Where did Sarah go? </p>
+<div class="Answer here">
+<button id="myBtn" class="dropbtn">Pick one</button>
+  <div id="myDropdown" class="dropdown-content">
+    <a href="#store">store</a>
+    <a href="#park">park</a>
+	<p> Question 2: Who did Sarah go to the park with? </p>
+<div class="Answer here">
+<button id="myBtn" class="dropbtn">Pick one</button>
+  <div id="myDropdown" class="dropdown-content">
+    <a href="#mom">mom</a>
+    <a href="#dad">dad</a>
+	<p> Question 3: She played _______ with other children? </p>
+<div class="Answer here">
+<button id="myBtn" class="dropbtn">Pick one</button>
+  <div id="myDropdown" class="dropdown-content">
+    <a href="#store">store</a>
+    <a href="#park">park</a>
+	<p> Question 1: Where did Sarah go? </p>
+<div class="Answer here">
+<button id="myBtn" class="dropbtn">Pick one</button>
+  <div id="myDropdown" class="dropdown-content">
+    <a href="#store">store</a>
+    <a href="#park">park</a>
+	<p> Question 1: Where did Sarah go? </p>
+<div class="Answer here">
+<button id="myBtn" class="dropbtn">Pick one</button>
+  <div id="myDropdown" class="dropdown-content">
+    <a href="#store">store</a>
+    <a href="#park">park</a>
+  </div>
+</div>
+
+<script>
+document.getElementById("myBtn").onclick = function() {myFunction()};
+
+function myFunction() {
+    document.getElementById("myDropdown").classList.toggle("show");
+}
+input type="dropdown" onclick="show_prompt1()" value="answerQ1 />
+input type ="dropdown" onclick="result1()" value="answerQ1 />
+document.getElementById("myBtn").onclick = function() {myFunction()};
+
+function myFunction() {
+    document.getElementById("myDropdown").classList.toggle("show");
+}
+input type="dropdown" onclick="show_prompt1()" value="answerQ2 />
+input type ="dropdown" onclick="result1()" value="answerQ2 />
+document.getElementById("myBtn").onclick = function() {myFunction()};
+
+function myFunction() {
+    document.getElementById("myDropdown").classList.toggle("show");
+}
+input type="dropdown" onclick="show_prompt1()" value="answerQ3 />
+input type ="dropdown" onclick="result1()" value="answerQ3 />
+document.getElementById("myBtn").onclick = function() {myFunction()};
+
+function myFunction() {
+    document.getElementById("myDropdown").classList.toggle("show");
+}
+input type="dropdown" onclick="show_prompt1()" value="answerQ5 />
+input type ="dropdown" onclick="result1()" value="answerQ5 />
+document.getElementById("myBtn").onclick = function() {myFunction()};
+
+function myFunction() {
+    document.getElementById("myDropdown").classList.toggle("show");
+}
+input type="dropdown" onclick="show_prompt1()" value="answerQ1 />
+input type ="dropdown" onclick="result1()" value="answerQ1 />
+
+</script>
